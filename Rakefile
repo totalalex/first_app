@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Firstapp::Application.load_tasks
+SecApp::Application.load_tasks
